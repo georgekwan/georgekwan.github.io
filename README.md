@@ -2,8 +2,8 @@
 
 <h2 align="center">Hello 👋, I'm George!</h2>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=georgekwan&theme=panda&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=georgekwan&theme=ocean_dark&show_icons=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgekwan&theme=panda&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgekwan&theme=ocean_dark&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=georgekwan&theme=neon-palenight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=georgekwan&theme=monokai&hide_border=true)
