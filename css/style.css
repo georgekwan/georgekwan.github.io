@@ -674,7 +674,7 @@ textarea {
   transition: color 0.3s;
 }
 .header__logo-container:hover {
-  color: rgba(23, 11, 159, 0.93);
+  color: rgba(255, 5, 5, 0.8);
 }
 .header__logo-img-cont {
   width: 5rem;
@@ -682,7 +682,7 @@ textarea {
   border-radius: 50px;
   overflow: hidden;
   margin-right: 1.5rem;
-  background: rgba(23, 11, 159, 0.93);
+  background: rgba(255, 5, 5, 0.8);
 }
 @media only screen and (max-width: 56.25em) {
   .header__logo-img-cont {
@@ -723,7 +723,7 @@ textarea {
   transition: color 0.3s;
 }
 .header__link:hover {
-  color: rgba(23, 11, 159, 0.93);
+  color: rgba(255, 5, 5, 0.8);
 }
 @media only screen and (max-width: 56.25em) {
   .header__link {
