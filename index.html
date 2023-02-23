@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Vite App</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Audiowide&family=Play:wght@700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
+    <style>
+      body {
+        margin: 0;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .font-Audiowide {
+        font-family: 'Audiowide', cursive;
+      }
+      .font-Play {
+        font-family: 'Play', sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app">
+      <div
+        id="container"
+        class="absolute text-white text-center w-full max-w-2xl px-6"
+        style="
+          top: 50%;
+          transform: translate(-50%, -50%);
+          left: 50%;
+          width: 100;
+        "
+      >
+        <h1
+          id="georgekwan"
+          class="font-Audiowide text-sm uppercase tracking-wide opacity-0"
+          style="transform: translateY(30px)"
+        >
+          George Kwan
+        </h1>
+        <p
+          id="aboutMe"
+          class="font-Play text-4xl opacity-0"
+          style="transform: translateY(30px)"
+        >
+          EMBRACE OPPORTUNITIES, FOLLOW CURIOSITY, AND LIVE LIFE TO THE FULLEST.
+        </p>
+        <a
+          id="viewWorkBtn"
+          href="https://github.com/georgekwan"
+          class="border px-4 py-2 rounded-lg text-sm font-Audiowide uppercase mt-8 hover:bg-white hover:text-gray-800 inline-block opacity-0"
+          style="transform: translateY(30px)"
+        >
+          View Work
+        </a>
+      </div>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
